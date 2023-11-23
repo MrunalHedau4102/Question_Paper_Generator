@@ -2,6 +2,12 @@
 
 <p id="description">This project is a Question Paper Generator implemented using Node.js and several npm packages. Follow the steps below to set up and run the application.</p>
 
+<h2>Project Screenshots:</h2>
+
+<img src="https://drive.google.com/file/d/13EPxFwaqjiHsmEiqpGJ6PhpaKY9uhtA1/view?usp=drive_link" alt="project-screenshot" width="100" height="100/">
+
+<img src="https://drive.google.com/file/d/1lRx959xyvCuqIGVNM-L2RvA11IE-rHX2/view?usp=drive_link" alt="project-screenshot" width="100" height="100/">
+
   
   
 <h2>🧐 Features</h2>
@@ -44,10 +50,10 @@ npm i lodash
 nodemon app.js
 ```
 
-<h2>🍰  Guidelines:</h2>
+<h2>🍰 Contribution Guidelines:</h2>
 
 Usage Access the application in your web browser. Select the desired subject from the available options. Choose the difficulty level for the question paper. The application will automatically generate a question paper based on your selections.
 
-<h2>Additional Feature we can add:</h2>
+<h2>💖Like my work?</h2>
 
 PDF File Upload: Users can upload PDF files containing additional study materials or resources. GridFS Storage: Utilizes GridFS Storage to store and manage large files (e.g. PDFs) efficiently.
