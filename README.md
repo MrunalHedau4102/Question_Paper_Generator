@@ -47,6 +47,6 @@ nodemon app.js
 
 Usage Access the application in your web browser. Select the desired subject from the available options. Choose the difficulty level for the question paper. The application will automatically generate a question paper based on your selections.
 
-<h2>💖Like my work?</h2>
+<h2>Additional Feature we can add.</h2>
 
 PDF File Upload: Users can upload PDF files containing additional study materials or resources. GridFS Storage: Utilizes GridFS Storage to store and manage large files (e.g. PDFs) efficiently.
