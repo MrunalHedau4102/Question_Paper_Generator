@@ -2,13 +2,6 @@
 
 <p id="description">This project is a Question Paper Generator implemented using Node.js and several npm packages. Follow the steps below to set up and run the application.</p>
 
-<h2>Project Screenshots:</h2>
-
-<img src="https://drive.google.com/file/d/13EPxFwaqjiHsmEiqpGJ6PhpaKY9uhtA1/view?usp=drive_link" alt="project-screenshot" width="100" height="100/">
-
-<img src="https://drive.google.com/file/d/1lRx959xyvCuqIGVNM-L2RvA11IE-rHX2/view?usp=drive_link" alt="project-screenshot" width="100" height="100/">
-
-  
   
 <h2>🧐 Features</h2>
 
